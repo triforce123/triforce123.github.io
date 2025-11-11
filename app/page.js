@@ -10,9 +10,8 @@ export default function PersonalWebsite() {
 
 
   const socialMedia = [
-    { name: "LinkedIn", url: "https://www.linkedin.com/in/lesliegarcia", icon: <RiLinkedinBoxFill className="w-6 h-6 text-gray-800 hover:text-blue-500 transition duration-200" /> },
-    { name: "Twitter", url: "https://twitter.com/lesliegarcia", icon: <RiTwitterFill className="w-6 h-6 text-gray-800 hover:text-blue-500 transition duration-200" /> },
-    { name: "GitHub", url: "https://github.com/lesliegarcia", icon: <RiGithubFill className="w-6 h-6 text-gray-800 hover:text-blue-500 transition duration-200" /> },
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/lesliexgarcia", icon: <RiLinkedinBoxFill className="w-6 h-6 text-gray-800 hover:text-blue-500 transition duration-200" /> },
+    { name: "GitHub", url: "https://github.com/triforce123", icon: <RiGithubFill className="w-6 h-6 text-gray-800 hover:text-blue-500 transition duration-200" /> },
   ];
 
 
@@ -22,9 +21,9 @@ export default function PersonalWebsite() {
       <header className="mb-12">
         <h1 className="text-4xl font-bold text-gray-800 mb-4 mt-8">My Calculator AI</h1>
         <p className="text-xl text-gray-600 leading-relaxed">
-          Hi there! I’m an operations analyst who loves turning data into stories and systems that make sense.
+          Hi there! I’m an analyst who loves turning data into stories and systems that make sense.
           I design tools, dashboards, and calculators that simplify complex information, helping people make smarter decisions faster.
-          I’m passionate about the intersection of analytics and user experience — finding the balance between precision and clarity.
+          I’m passionate about the intersection of analytics and user experience, finding the balance between precision and clarity.
           This website is where I share the projects, experiments, and insights that come from that process. Hope you find them useful and engaging!
         </p>
       </header>

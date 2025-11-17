@@ -1,5 +1,5 @@
 import React from 'react';
-import { RiMoneyDollarBoxLine } from 'react-icons/ri';
+import { RiMoneyDollarBoxLine, RiDice6Fill } from 'react-icons/ri';
 import { RiLinkedinBoxFill, RiTwitterFill, RiGithubFill } from 'react-icons/ri';
 
 export default function PersonalWebsite() {

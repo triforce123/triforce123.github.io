@@ -4,9 +4,18 @@ import { RiLinkedinBoxFill, RiTwitterFill, RiGithubFill } from 'react-icons/ri';
 
 export default function PersonalWebsite() {
   const calculators = [
-    { name: "Home Loan Simulator", url: "home-loan-calculator.html", icon: <RiMoneyDollarBoxLine className="text-2xl text-primary mr-3" /> },
-    // { name: "Auto Loan Simulator", url: "auto-loan", icon: <RiMoneyDollarBoxLine className="text-2xl text-primary mr-3" /> },
+    { 
+      name: "Home Loan Simulator", 
+      url: "home-loan-calculator.html", 
+      icon: <RiMoneyDollarBoxLine className="text-2xl text-primary mr-3" /> 
+    },
+    { 
+      name: "Random Number Eliminator", 
+      url: "/random-number-eliminator", 
+      icon: <RiDice6Fill className="text-2xl text-primary mr-3" /> 
+    },
   ];
+
 
 
   const socialMedia = [
